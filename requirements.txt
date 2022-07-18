@@ -1,6 +1,6 @@
 pip>=22.1.2
 
-pyrogram==1.2.20
+pyrogram==2.0.33
 TgCrypto~=1.2.3
 
 Quart==0.17.0
