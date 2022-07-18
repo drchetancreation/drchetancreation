@@ -1,9 +1,9 @@
-pip>=22.1.2
+pip>=21.1.2
 
-pyrogram==2.0.33
-TgCrypto~=1.2.3
+pyrogram==1.2.20
+TgCrypto~=1.2.2
 
 Quart==0.17.0
-Hypercorn==0.13.2
+Hypercorn==0.12.0
 
-aiohttp~= 4.0.0a1
+aiohttp~=3.8.0
