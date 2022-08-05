@@ -1,4 +1,4 @@
-### 😘Support me👇🏻👇🏻
+### 😘Support 🅓︎Ⓒ︎💖
 [![GitHub followers](https://img.shields.io/github/followers/drchetancreation.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/drchetancreation?tab=followers)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/drchetancreation/)
