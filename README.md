@@ -10,7 +10,7 @@
 <a href="https://youtube.com/c/drchetancreation"><img src="https://img.shields.io/badge/DRCHETAN%20-CREATION-red.svg?logo=Youtube"></a>
 
 
-- 🔭 I’m currently studying 
+- 🔭 I’m currently studying BHMS
 - 🌱 I’m currently Testing 🅓︎Ⓒ︎Botz and playing online games
 - 👯 I’m looking to collaborate on Project
 - 🤔 I’m looking for help with Open Source
