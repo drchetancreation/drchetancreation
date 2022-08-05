@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Profile views](https://gpvc.arturio.dev/drchetancreation)
+
 [![telegram badge](https://img.shields.io/badge/DRCHETAN-CREATION-30302f?style=flat&logo=telegram)](https://t.me/Drchetancreations)
 
 🌟SUBSCRIBE YOUTUBE CHANNEL 
