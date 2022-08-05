@@ -3,9 +3,7 @@
  
 ![Profile views](https://gpvc.arturio.dev/drchetancreation)
 
-[![telegram badge](https://img.shields.io/badge/DRCHETAN-CREATION-30302f?style=flat&logo=telegram)](https://t.me/Drchetancreations)
-
-🌟SUBSCRIBE YOUTUBE CHANNEL 
+[![telegram badge](https://img.shields.io/badge/DRCHETAN-CREATION-30302f?style=flat&logo=telegram)](https://t.me/Drchetancreations) 
 
 <a href="https://youtube.com/c/drchetancreation"><img src="https://img.shields.io/badge/DRCHETAN%20-CREATION-red.svg?logo=Youtube"></a>
 
